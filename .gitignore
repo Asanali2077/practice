@@ -25,5 +25,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+### Node.js ###
+node_modules/
+
 ### Mac OS ###
 .DS_Store
